@@ -1,0 +1,22 @@
+.dis{
+    display: grid;
+    margin: 2px;
+    padding: 5px;
+    grid-template-columns: auto auto auto auto auto;
+    
+}
+.dis img{
+    width: 250px;
+    height:200px;
+    padding:15px;
+    border:1px solid black;
+    border-radius: 50px;
+}
+
+button{
+    padding: 5px;
+    background: green;
+    color: white;
+    font-weight: bold;
+    margin: 5px;
+}

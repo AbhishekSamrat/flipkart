@@ -1,0 +1,21 @@
+.Home {
+    margin: 3px;
+    width: 100%;
+    background-color: darkblue;
+    
+    align-items: center;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    grid-template-columns: auto auto auto;
+ 
+}
+.Home .nav{
+    margin: 5px;
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 3px;
+
+
+}
